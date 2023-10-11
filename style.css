@@ -31,6 +31,12 @@ h1{
     border: 5px solid black;
     display:grid;
 }
+.board p{
+    text-align: center;
+    margin: auto; 
+    color:black;
+    font-size: 3rem;
+}
 footer{
     display: flex;
     flex-direction: row;

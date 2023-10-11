@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 body{
     background: #222;
@@ -27,7 +28,8 @@ h1{
     width: 500px;
     height:500px;
     background-color: white;
-    border: 5px solid black
+    border: 5px solid black;
+    display:grid;
 }
 footer{
     display: flex;
